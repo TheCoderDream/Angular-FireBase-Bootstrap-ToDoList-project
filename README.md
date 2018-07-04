@@ -1,3 +1,5 @@
+![alt text](https://github.com/TheCodersDream/Angular-FireBase-Bootstrap-ToDoList-project/blob/master/Screenshot_13.png)
+
 # ToDoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
